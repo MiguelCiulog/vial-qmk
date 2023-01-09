@@ -1,0 +1,12 @@
+VIA_ENABLE = yes
+VIAL_ENABLE = yes
+LTO_ENABLE = yes
+
+TAP_DANCE_ENABLE = no
+COMBO_ENABLE = no
+EXTRAKEY_ENABLE = yes
+
+# Enable joystick as mouse
+
+POINTING_DEVICE_ENABLE = yes
+POINTING_DEVICE_DRIVER = analog_joystick
