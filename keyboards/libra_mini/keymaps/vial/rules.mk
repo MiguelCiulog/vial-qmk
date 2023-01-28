@@ -1,6 +1,7 @@
 VIA_ENABLE = yes
 VIAL_ENABLE = yes
 LTO_ENABLE = yes
+EXTRAKEY_ENABLE = yes
 
 # Enable joystick as mouse
 
